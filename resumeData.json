@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Alghifari Fikri Santoso",
+    "description": "I am a Fullstack Software Developer. This website is a resume that contains my personal data, curriculum vitae, and work experience.",
+    "image": "alghi.png",
+    "bio": "I am a Fullstack Software Developer who has experience as a Frontend Developer. Have experience in developing websites and mobile applications using Express JS, React, and React Native. I am a person who always does everything optimally, both individually and in groups.",
+    "contactmessage": "Please Contact Me For More Information",
+    "email": "alghi77@gmail.com",
+    "phone": "089-695-780-942",
+    "github": "https://github.com/alghifarifikri",
+    "address": {
+      "street": "Jl. H.M. Thohir No. 11 Pondok Cina, Kec. Beji",
+      "city": "Depok",
+      "state": "Jawa Barat",
+      "zip": "16424"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1fDA741035vl5G4AGai5wUo7ffCvSlTYN/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/alghi88",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://bit.ly/alghifarifikri",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/alghifarifikri.scr",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/alghifarifikri",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "In work, I use javascript technology. and until now, I keep learning new things to increase my skills and knowledge",
+    "education": [
+      {
+        "school": "Bootcamp Arkademy Tech Education Platform",
+        "degree": "Fullstack Software Developer",
+        "graduated": "December 2019 - February 2020",
+        "description": "Learn and build RESTful API using NodeJS and Express JS, Create a web application using React JS, and Build a mobile application using React Native"
+      },
+      {
+        "school": "Gunadarma University",
+        "degree": "Bachelor Degree of Engineering",
+        "graduated": "2015 - 2019",
+        "description": "GPA 3,17"
+      }
+    ],
+    "work": [
+      {
+        "company": "PT. NashTa Global Utama",
+        "title": "Frontend Developer",
+        "years": "March 2020 - Present",
+        "description": "In the CEISA 4.0 project belonging to customs, I Build and develop UI Singlecore System Module and Perbendaharaan Module using React JS then integrate it with the API. In Internal project, I help build and develop Backoffice Okedok App using React JS."
+      },
+      {
+        "company": "PT. Indofood CBP Sukses Makmur, Tbk",
+        "title": "Manufacturing Internship",
+        "years": "June 2019 - November 2019",
+        "description": "I Create a Data Structure Downtime All Plant (Year to Date), Create Machine Downtime Analysis, and Data Analysis and Visualization"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Node JS",
+        "level": "65%"
+      },
+      {
+        "name": "Express JS",
+        "level": "60%"
+      },
+      {
+        "name": "React Js",
+        "level": "85%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CEISA 4.0 - Perbendaharaan",
+        "image": "2.png",
+        "url": "https://ceisa40.customs.go.id"
+      },
+      {
+        "title": "CEISA 4.0 - Singlecore System",
+        "image": "1.png",
+        "url": "https://portal.beacukai.go.id/dokumen-pabean"
+      },
+      {
+        "title": "Backoffice Okedok",
+        "image": "3.png",
+        "url": ""
+      },
+      {
+        "title": "Ordinare Food",
+        "image": "5.png",
+        "url": ""
+      }
+    ]
+  }
+}
