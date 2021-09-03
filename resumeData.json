@@ -2,7 +2,7 @@
   "main": {
     "name": "Alghifari Fikri Santoso",
     "description": "I am a Fullstack Software Developer. This website is a resume that contains my personal data, curriculum vitae, and work experience.",
-    "image": "alghi.png",
+    "image": "alghi.PNG",
     "bio": "I am a Fullstack Software Developer who has experience as a Frontend Developer. Have experience in developing websites and mobile applications using Express JS, React, and React Native. I am a person who always does everything optimally, both individually and in groups.",
     "contactmessage": "Please Contact Me For More Information",
     "email": "alghi77@gmail.com",
@@ -103,22 +103,22 @@
     "projects": [
       {
         "title": "CEISA 4.0 - Perbendaharaan",
-        "image": "2.png",
+        "image": "2.PNG",
         "url": "https://ceisa40.customs.go.id"
       },
       {
         "title": "CEISA 4.0 - Singlecore System",
-        "image": "1.png",
+        "image": "1.PNG",
         "url": "https://portal.beacukai.go.id/dokumen-pabean"
       },
       {
         "title": "Backoffice Okedok",
-        "image": "3.png",
+        "image": "3.PNG",
         "url": ""
       },
       {
         "title": "Ordinare Food",
-        "image": "5.png",
+        "image": "5.PNG",
         "url": ""
       }
     ]
